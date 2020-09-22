@@ -1,3 +1,6 @@
+# What it Does
+- Tweets without having to open Twitter
+
 # Install
 - git clone https://github.com/justinjmmj/twitterTweet.git
 - cd twitterTweet
